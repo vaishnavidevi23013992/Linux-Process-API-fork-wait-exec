@@ -74,7 +74,7 @@ int main() {
     return 0;
 }
 ```
-**##OUTPUT**
+**OUTPUT**
 ![output2](https://github.com/vaishnavidevi23013992/Linux-Process-API-fork-wait-exec/assets/151864235/4e26493a-fdb1-40d4-92e6-704af11a496a)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
@@ -107,7 +107,7 @@ int main() {
     return 0;
 }
 ```
-**##OUTPUT**
+**OUTPUT**
 ![output3](https://github.com/vaishnavidevi23013992/Linux-Process-API-fork-wait-exec/assets/151864235/5a44eb63-a24e-4223-a72d-d265515aeb40)
 # RESULT:
 The programs are executed successfully.
